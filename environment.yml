@@ -1,0 +1,15 @@
+name: weather_ds
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - statsmodels
+  - joblib
+ 
