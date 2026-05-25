@@ -101,7 +101,10 @@ jupyter lab
 | RMSE   | 0.6249 °C |
 | R2     | -0.2568 |
 
-Fill in your values from the model evaluation cell after running the notebook.
+The negative R2 score suggests the model struggles to capture the full variance 
+of the global temperature series, likely because averaging temperatures across 
+all countries worldwide flattens the seasonal signal. A per-country or 
+per-region model would likely perform better.
 
 ---
 
