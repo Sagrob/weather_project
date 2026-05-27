@@ -1,7 +1,6 @@
 # Global Weather Repository — Data Science Analysis
 
-PM Accelerator Data Science Assessment — Basic Track
-
+PM Accelerator Data Science Assessment
 ---
 
 ## PM Accelerator Mission
